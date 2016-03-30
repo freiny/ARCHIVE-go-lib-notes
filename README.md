@@ -1,2 +1,2 @@
-# go-stringutility
-Some string utility functions in Golang
+# go-stringutil
+String utility functions in Golang
