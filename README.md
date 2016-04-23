@@ -1,2 +1,2 @@
-# go-stringutil
-String utility functions in Golang
+# go-lib-show
+Go/Golang external library features and usage examples

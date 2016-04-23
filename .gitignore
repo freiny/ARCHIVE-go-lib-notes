@@ -26,3 +26,6 @@ logs
 temp
 tmp
 tramp
+
+# Rapid testing
+save-commands.json
